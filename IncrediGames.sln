@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IncrediGames", "IncrediGames\IncrediGames.vcxproj", "{B1BC6488-760E-43C6-9F8D-6772546EB2D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{7C2A038A-E12E-4981-873A-95398310A982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BC6488-760E-43C6-9F8D-6772546EB2D2}.Debug|x64.ActiveCfg = Debug|x64
+		{B1BC6488-760E-43C6-9F8D-6772546EB2D2}.Debug|x64.Build.0 = Debug|x64
+		{B1BC6488-760E-43C6-9F8D-6772546EB2D2}.Release|x64.ActiveCfg = Release|x64
+		{B1BC6488-760E-43C6-9F8D-6772546EB2D2}.Release|x64.Build.0 = Release|x64
+		{7C2A038A-E12E-4981-873A-95398310A982}.Debug|x64.ActiveCfg = Debug|x64
+		{7C2A038A-E12E-4981-873A-95398310A982}.Debug|x64.Build.0 = Debug|x64
+		{7C2A038A-E12E-4981-873A-95398310A982}.Release|x64.ActiveCfg = Release|x64
+		{7C2A038A-E12E-4981-873A-95398310A982}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC34435-59DD-4CC8-9EAE-6965EA859DE7}
+	EndGlobalSection
+EndGlobal
