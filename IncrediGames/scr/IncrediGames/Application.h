@@ -1,7 +1,7 @@
 #pragma once
 #include "Core.h"
 
-namespace Tometo
+namespace nIncrediEngine
 {
 	class T_API Application
 	{

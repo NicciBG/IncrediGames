@@ -2,11 +2,11 @@
 
 #ifdef IG_PLATFORM_WINDOWS
 
-extern Tometo::Application* Tometo::CreateApplication();
+extern nIncrediEngine::Application* nIncrediEngine::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	auto app = Tometo::CreateApplication();
+	auto app = nIncrediEngine::CreateApplication();
 	app->Run();
 	delete app;
 }

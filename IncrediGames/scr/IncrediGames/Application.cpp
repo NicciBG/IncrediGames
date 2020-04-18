@@ -1,6 +1,6 @@
 #include "Application.h"
 
-namespace Tometo
+namespace nIncrediEngine
 {
 	Application::Application()
 	{

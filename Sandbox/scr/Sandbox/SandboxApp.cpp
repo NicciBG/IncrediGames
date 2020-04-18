@@ -1,6 +1,6 @@
 #include "IncrediGames.h"
 
-class Sandbox : public Tometo::Application
+class Sandbox : public nIncrediEngine::Application
 {
 public:
 	Sandbox()
@@ -14,7 +14,7 @@ public:
 	}
 };
 
-Tometo::Application* Tometo::CreateApplication()
+nIncrediEngine::Application* nIncrediEngine::CreateApplication()
 {
 	return new Sandbox();
 }
